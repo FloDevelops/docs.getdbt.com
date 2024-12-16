@@ -109,7 +109,7 @@ The following tools integrate with the dbt Semantic Layer:
 <div className="card-container">
   <Card
     title="Sigma (Preview)"
-    body="Connect Sigma to the dbt Semantic Layer for centralized, scalable analytics."
+    body="Connect Sigma to the dbt Semantic Layer to allow you to leverage your predefined dbt metrics in Sigma workbooks."
     link="https://help.sigmacomputing.com/docs/configure-a-dbt-semantic-layer-integration"
     icon="sigma"/>
     <a href="https://help.sigmacomputing.com/docs/configure-a-dbt-semantic-layer-integration"
